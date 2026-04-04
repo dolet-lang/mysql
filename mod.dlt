@@ -10,9 +10,6 @@ load mysql/row
 load mysql/result
 load mysql/mysql
 
-# Private — internal FFI bindings not exposed to users
-private bindings
-
 # Exported structs — public API
 export MySQL
 export MySQLResult
