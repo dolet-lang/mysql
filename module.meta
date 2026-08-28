@@ -5,6 +5,7 @@
 [info]
 name = mysql
 version = 1.0.0
+layer = binding
 description = MySQL database client bindings for Dolet
 
 [libs]
